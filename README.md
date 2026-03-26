@@ -23,7 +23,7 @@
 
 ---
 
-*Table R2.* Training time and parameter comparison (Hopper-medium, RTX 5080).
+*Table R2.* Training time and parameter comparison (Hopper-medium).
 
 | Method | Augmentation | Policy Training | Total | Policy Params |
 |--------|-------------|----------------|-------|--------------|
@@ -34,7 +34,7 @@
 
 ---
 
-*Figure R2.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for HalfCheetah-medium. Counterfactual states interleave with originals, confirming on-manifold generation.
+*Figure R2.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for HalfCheetah-medium. 
 
 <table><tr>
 <td><img src="halfcheetah-medium-pca_diag.png" width="480"/></td>
@@ -43,7 +43,7 @@
 
 ---
 
-*Figure R3.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for Hopper-medium. Good overlap with minor blue-dominant clusters where the acceptance gate rejected proposals.
+*Figure R3.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for Hopper-medium.
 
 <table><tr>
 <td><img src="hopper-medium-pca_diag.png" width="480"/></td>
