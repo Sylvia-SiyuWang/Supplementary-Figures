@@ -23,17 +23,6 @@
 
 ---
 
-*Table R2.* Training time and parameter comparison (Hopper-medium).
-
-| Method | Augmentation | Policy Training | Total | Policy Params |
-|--------|-------------|----------------|-------|--------------|
-| DC | — | 74 min | 74 min | 268K |
-| CSET | 8 min (CRM+CSG) | 63 min | 71 min | 331K |
-| ReBRAC | — | 98 min | 98 min | 216K |
-| EDAC | — | 19 hours | 19 hours | 794K |
-
----
-
 *Figure R2.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for HalfCheetah-medium. 
 
 <table><tr>
