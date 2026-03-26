@@ -15,26 +15,16 @@
 
 *Figure R1.* Extended results on Figure 3 (Section 4.4) with ReBRAC and EDAC.
 
-<table><tr>
-<td><img src="HalfCheetah_robustness_extended.png" width="320"/></td>
-<td><img src="Hopper_robustness_extended.png" width="320"/></td>
-<td><img src="Walker2d_robustness_extended.png" width="320"/></td>
-</tr></table>
+<img src="HalfCheetah_robustness_extended.png" width="32%"> <img src="Hopper_robustness_extended.png" width="32%"> <img src="Walker2d_robustness_extended.png" width="32%">
 
 ---
 
-*Figure R2.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for HalfCheetah-medium. 
+*Figure R2.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for HalfCheetah-medium.
 
-<table><tr>
-<td><img src="halfcheetah-medium-pca_diag.png" width="480"/></td>
-<td><img src="halfcheetah-medium-tsne_diag.png" width="480"/></td>
-</tr></table>
+<img src="halfcheetah-medium-pca_diag.png" width="48%"> <img src="halfcheetah-medium-tsne_diag.png" width="48%">
 
 ---
 
 *Figure R3.* PCA (left) and t-SNE (right) of original (blue) vs counterfactual (red) states for Hopper-medium.
 
-<table><tr>
-<td><img src="hopper-medium-pca_diag.png" width="480"/></td>
-<td><img src="hopper-medium-tsne_diag.png" width="480"/></td>
-</tr></table>
+<img src="hopper-medium-pca_diag.png" width="48%"> <img src="hopper-medium-tsne_diag.png" width="48%">
